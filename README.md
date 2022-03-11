@@ -1,10 +1,7 @@
-### Hola compañeros desarrolladores 
+### Hello fellow developers
+I'm honored that you're here on my Github, let me tell you a bit about myself: I'm Sebastian, a Full-Stack web developer. Passionate about the IT world. I have a lot of interest in technology, as a child I have always been interested and I have participated in programming in any type of field, since I believe that technology contributes in any of these places if one simply gives it the opportunity.
 
-Me siento honrado de que estes aquí en mi Github, dejame contarte un poco sobre mi:
-Soy Sebastian desarrollador web Full-Stack. Apasionado por el mundo IT. Tengo mucho interés en la tecnología, de chico siempre me ha interesado y he participado en programación en cualquier tipo de ámbito, ya que creo que la tecnología aporta en cualquier de estos lugares si uno simplemente le da la oportunidad.
-
-
-Aquí algunas de mis skills:
+Here some of my skills:
 
 👇 
 
@@ -21,6 +18,6 @@ Aquí algunas de mis skills:
   <img src="https://img.shields.io/badge/express-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 </details>
 
-Puedes encontrarme en LinkedIn:
+You can find me on LinkedIn:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/sebasti%C3%A1n-carvajal-full-stack-web-developer/)
