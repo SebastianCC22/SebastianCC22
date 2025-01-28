@@ -4,8 +4,8 @@ I'm honored that you're here on my Github, let me tell you a bit about myself: I
 Here some of my skills:
 
 👇 
-
-<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+<details>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
 	<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="Javascript"/>	
@@ -24,8 +24,8 @@ Here some of my skills:
 	<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="Fastapi"/>
 	<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django"/>
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDb"/>
-
-
+</details>
+	
 You can find me on LinkedIn:
 
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>](https://www.linkedin.com/in/sebasti%C3%A1n-carvajal-full-stack-web-developer/)
