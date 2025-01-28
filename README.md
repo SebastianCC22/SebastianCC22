@@ -17,7 +17,7 @@ Here some of my skills:
   	<img src="https://img.shields.io/badge/react-%233573b5.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   	<img src="https://img.shields.io/badge/express-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 	<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-	<img src="https://img.shields.io/badge/C-sharp?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+	<img src="https://img.shields.io/badge/Csharp?style=for-the-badge&logo=redux&logoColor=white" alt="Csharp"/>
 </details>
 
 You can find me on LinkedIn:
