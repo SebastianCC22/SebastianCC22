@@ -1,7 +1,7 @@
 ### Hello fellow developers
-I'm honored that you're here on my Github, let me tell you a bit about myself: I'm Sebastian, a Full-Stack web developer. Passionate about the IT world. I have a lot of interest in technology, as a child I have always been interested and I have participated in programming in any type of field, since I believe that technology contributes in any of these places if one simply gives it the opportunity.
+t's an honor that you're here on my Github, let me tell you a little bit about me: I'm Sebastian, a full-stack web developer. Passionate about the world of technology. I have a lot of interest in technology and the why of things. I have also participated in programming in both team and individual projects, putting into practice agile methodologies such as SCRUM, Kanban, Extreme Programming and programming together with other colleagues.
 
-Here some of my skills:
+Here you can see my knowledge and skills that I have developed over time:
 
 👇 
 <details>
